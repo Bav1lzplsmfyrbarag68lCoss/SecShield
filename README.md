@@ -3,3 +3,4 @@ SecurityGoals
 InstallationSteps
 EncryptionFeatures
 DependenciesList
+SecurityExamples

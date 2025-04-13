@@ -4,3 +4,4 @@ InstallationSteps
 EncryptionFeatures
 DependenciesList
 SecurityExamples
+ConfigurationOptions

@@ -5,3 +5,4 @@ EncryptionFeatures
 DependenciesList
 SecurityExamples
 ConfigurationOptions
+ContributionGuidelines

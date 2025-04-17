@@ -6,3 +6,4 @@ DependenciesList
 SecurityExamples
 ConfigurationOptions
 ContributionGuidelines
+SecurityDebugging

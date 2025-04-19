@@ -7,3 +7,4 @@ SecurityExamples
 ConfigurationOptions
 ContributionGuidelines
 SecurityDebugging
+LicenseInformation

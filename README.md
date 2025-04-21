@@ -8,3 +8,4 @@ ConfigurationOptions
 ContributionGuidelines
 SecurityDebugging
 LicenseInformation
+SecurityFAQ

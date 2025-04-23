@@ -9,3 +9,4 @@ ContributionGuidelines
 SecurityDebugging
 LicenseInformation
 SecurityFAQ
+VersionHistory

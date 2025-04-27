@@ -11,3 +11,4 @@ LicenseInformation
 SecurityFAQ
 VersionHistory
 TestingProcedures
+SecurityPerformance

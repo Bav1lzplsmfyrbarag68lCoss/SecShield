@@ -12,3 +12,4 @@ SecurityFAQ
 VersionHistory
 TestingProcedures
 SecurityPerformance
+SupportChannels
